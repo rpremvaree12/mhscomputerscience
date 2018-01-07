@@ -12,6 +12,16 @@ a {
   -webkit-transition: all .35s;
   -moz-transition: all .35s;
   transition: all .35s;
+  margin: 5px;
+}
+
+#resources {
+  background-color: #4a50ac;
+}
+
+#tutorial {
+  background-color:#242866;
+  
 }
 
 
@@ -410,12 +420,6 @@ footer ul li a:focus,
 footer ul li a:active,
 footer ul li a.active {
   text-decoration: none;
-}
-
-.bg-primary {
-  /*background: #fdcc52;*/
-  /*background: -webkit-linear-gradient(#fdcc52, #fdc539);*/
-  /*background: linear-gradient(#fdcc52, #fdc539);*/
 }
 
 .text-primary {
